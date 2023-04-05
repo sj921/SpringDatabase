@@ -1,0 +1,20 @@
+
+* {
+	box-sizing: border-box;
+}
+
+
+#computer {
+	border: solid black 3px;
+	background-image: url('https://stylec-s3.s3.ap-northeast-2.amazonaws.com/data/item/1650429643/Jsh64uY7J207ZqM7JuQ64uY7JeQ6rKM7ZWA7J2E67O064OI7Iq164uI64uk.jpg');
+	background-size: cover;
+	background-position : 0px;
+	background-repeat: no-repeat;
+	width: 150px;
+	height: 150px
+}
+
+#message {
+	padding: 5px;
+}
+
